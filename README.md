@@ -1,2 +1,2 @@
 # cnx
-Revista Conexiuni a cercului de Electronică de la Palatul Copiilor Drobeta Turnu Severin
+Repozitoriu pentru revista Conexiuni a cercului de Electronică de la Filiala Orșova a Palatului Copiilor Drobeta Turnu Severin.
